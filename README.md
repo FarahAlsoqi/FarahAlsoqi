@@ -1,16 +1,34 @@
 ### Hi there 👋
+# Hi there! 👋 I'm Farah.
 
-<!--
-**FarahAlsoqi/FarahAlsoqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Web Developer with expertise in creating robust and scalable web applications. Here's a glimpse of my skill set:
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:**
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js
+
+- **Backend:**
+  - Node.js
+  - Next.js
+
+- **Databases:**
+  - SQL
+  - MongoDB
+
+- **APIs:**
+  - Postman
+
+- **Containerization:**
+  - Docker
+
+## Coding Bootcamp Experience
+I successfully completed a 6-month intensive coding bootcamp focused on Full Stack Web Development. During the bootcamp, I learned how to build scalable and responsive web applications, collaborate in team projects, and solve real-world coding challenges.
+
+## Education
+**Coding Bootcamp Certificate** (10/2023)
+  - Fullstack Web Development Bootcamp - Jordan (Re:Coded)
+
