@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi there! 👋 I'm Farah.
 
 I'm a passionate Full Stack Web Developer with expertise in creating robust and scalable web applications. Here's a glimpse of my skill set:
